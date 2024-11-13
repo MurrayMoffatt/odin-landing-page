@@ -100,7 +100,7 @@ h1, h2, p {
 
 .product-item {
   flex: 1;
-  max-width: 180px;
+  max-width: 200px;
   text-align: center;
   border: 3px solid #3882F6;
   border-radius: 8px;
