@@ -1,4 +1,4 @@
 # odin-landing-page
 Landing Page Project
 
-Available to view at [text](https://murraymoffatt.github.io/odin-landing-page/)
+Available to view at [https://murraymoffatt.github.io/odin-landing-page/](https://murraymoffatt.github.io/odin-landing-page/)
